@@ -1,0 +1,4 @@
+const Index = () => (
+  <div></div>
+
+)
